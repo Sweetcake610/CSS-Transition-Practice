@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+      <title>CSS Trasition Practice</tile>
+  <head>
+  
+  <body>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Products</a>
+      <a href="#">Vendors</a>
+    </nav>
+    
+    <div class="pboxes one">
+    </div>
+    <div class="pboxes two">
+    </div>
+    <div class="pboxes three">
+    <div>
+  </body>
+</html>
